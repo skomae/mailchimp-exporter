@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+# Exports contain personal data of your contacts -- never commit them.
+export/
+mailchimp-export*/
+credentials.json
